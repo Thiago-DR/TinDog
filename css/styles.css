@@ -2,6 +2,10 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
+/********************
+    Title Section 
+********************/
+
 #title {
 	background-color: #ff4c68;
 	color: #fff;
@@ -51,3 +55,7 @@ h1 {
 	width: 60%;
 	transform: rotate(20deg);
 }
+
+/*********************
+    Features Section 
+*********************/
