@@ -59,3 +59,35 @@ h1 {
 /*********************
     Features Section 
 *********************/
+
+#features {
+	background-color: #fff;
+}
+
+.features-col {
+	margin: 10% 0;
+}
+/* Text */
+
+#features h3 {
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+#features p {
+	color: #8f8f8f;
+	padding: 0 10%;
+}
+
+/* Icons */
+
+.features-icon {
+	font-size: 3rem;
+	color: #ef8172;
+
+	margin: 5% 0;
+}
+
+.features-icon:hover {
+	color: #ff4c68;
+}
