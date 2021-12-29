@@ -2,7 +2,7 @@
 
 A website development practice
 
-## Info
+## General Info
 
 This is a website created during the Udemy course 'The Complete 2022 Web Development Bootcamp' as a method of learning how to use Bootstrap.
 
