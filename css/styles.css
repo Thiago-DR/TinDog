@@ -202,4 +202,7 @@ h3 {
 	#title {
 		text-align: center;
 	}
+	.download-button {
+		margin: 6% 3%;
+	}
 }
