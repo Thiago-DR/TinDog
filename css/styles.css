@@ -150,6 +150,50 @@ h3 {
 	padding: 3% 2%;
 }
 
+/******************
+    CTA Section 
+*******************/
+
+#cta {
+	background-color: #ff4c68;
+	color: #fff;
+}
+
+#cta h3 {
+	font-size: 3rem;
+}
+
+#cta .container-fluid {
+	padding: 7% 15%;
+}
+
+#cta button {
+	margin: 7% 2% 2%;
+}
+
+/********************
+    Footer Section
+********************/
+
+#footer {
+	background-color: #fff;
+}
+
+#footer p {
+	color: #8f8f8f;
+}
+
+#footer i {
+	margin: 20px 10px;
+}
+#footer .container-fluid {
+	padding: 7% 15%;
+}
+
+/*************
+    @media
+**************/
+
 @media (max-width: 1028px) {
 	.title-img {
 		position: static;
